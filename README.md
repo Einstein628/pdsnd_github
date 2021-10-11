@@ -10,7 +10,11 @@ Udacity Version Control Project
 Hands-on practice Git for Version Control
 
 ### Files used
+https://github.com/Einstein628/pdsnd_github.git
+
 
 
 ### Credits
-To be updated
+Udacity course documentation
+GitHub documentation
+
